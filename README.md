@@ -18,7 +18,7 @@ cd todo-app
 # Install dependencies
 npm install
 npm install lucide-react
-npm install tailwindcss @tailwindcss/vites
+npm install tailwindcss @tailwindcss/vite
 
 # Run dev server
 npm run dev
